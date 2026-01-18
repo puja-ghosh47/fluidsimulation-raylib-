@@ -61,4 +61,4 @@ this project is still in progress , some modifications that i am aiming for are
 
 refrences
 paper used:
-https://sph-tutorial.physics-simulation.org/pdf/SPH_Tutorial.pdf
+https://web.archive.org/web/20250106201614if_/http://www.ligum.umontreal.ca/Clavet-2005-PVFS/pvfs.pdf
