@@ -58,3 +58,7 @@ this project is still in progress , some modifications that i am aiming for are
 2. add viscosity
 3. give a color according to the density to make it look more like a fluid
 4. add mouse and object interactions
+
+refrences
+paper used:
+https://sph-tutorial.physics-simulation.org/pdf/SPH_Tutorial.pdf
